@@ -1,0 +1,49 @@
+.chart-game {
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    width: auto;
+    border-width: 20px;
+    border-style: solid;
+    border-color: rgb(255, 230, 0);
+}
+
+.chart-game-padding {
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(3, 3, 104);
+    justify-content: center;
+    text-align: center;
+}
+
+.box-game{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-flex;
+    font-size: 60px;
+    justify-content: center;
+}
+
+.box-game-empty{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-flex;
+    font-size: 60px;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+
+.area-letter {
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+    margin-right: 10px;
+}

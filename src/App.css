@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.text-white{
+  color: #ffffff;
+}
+
+.text-emphasis{
+  color: rgb(255, 255, 2);
+}
+
+.upper{
+  text-transform: uppercase;
+}
+
